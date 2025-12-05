@@ -164,6 +164,4 @@ public class CoralRoller extends SubsystemBase implements ActiveSubsystem, DataP
     logCurrentVelocity.append(currentVelocity);
     motor.logTelemetry();
   }
-
 }
-
